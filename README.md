@@ -7,7 +7,7 @@ Acest repositoy contine temele si lucrarile de laborator realizate in cadrul cur
 Cerinta:
 Trebuie sa controlam fiecare culoare (rosu, verde si albastru) de la un led RGB folosind potentiometre pentru fiecare culoare in parte.
 
-Ce am folit:
+Ce am folosit:
 - 1 leg RGB
 - 3 potentiometre
 - 3 rezistente de 330Ω
