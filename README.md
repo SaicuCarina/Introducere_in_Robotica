@@ -19,6 +19,7 @@ Cum am facut:
 3. In final am modificat codul pentru a fi unul eficient si bine structurat.
 
 Poza:
+![image](https://github.com/SaicuCarina/Introducere_in_Robotica/assets/93483071/37ec04d6-ead9-46b6-8e86-70229313fd8d)
 
 Link youtube:
 
