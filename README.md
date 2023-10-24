@@ -22,4 +22,4 @@ Poza:
 ![WhatsApp Image 2023-10-24 at 21 58 03](https://github.com/SaicuCarina/Introducere_in_Robotica/assets/93483071/0e5dc23d-cf1e-4c16-8162-a00d6621803b)
 
 Link youtube:
-
+https://www.youtube.com/watch?v=3huVZrHhmkI&ab_channel=CarinaSaicu
