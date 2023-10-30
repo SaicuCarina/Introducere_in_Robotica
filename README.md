@@ -8,7 +8,7 @@ Cerinta:
 Trebuie sa controlam fiecare culoare (rosu, verde si albastru) de la un led RGB folosind potentiometre pentru fiecare culoare in parte.
 
 Ce am folosit:
-- 1 leg RGB
+- 1 led RGB
 - 3 potentiometre
 - 3 rezistente de 330Ω
 - 17 fire
@@ -23,3 +23,25 @@ Poza:
 
 Link youtube:
 https://www.youtube.com/watch?v=3huVZrHhmkI&ab_channel=CarinaSaicu
+
+# Tema 3
+
+Cerinta:
+Trebuie sa simulam un lift cu 3 etaje cu leduri, butoane si un buzzer, folosind Arduino.
+
+Ce am folosit:
+- 3 led-uri rosii (pentru fiecare etaj in parte)
+- 1 led albatru (pentru a simula cum se misca liftul)
+- 1 buzzer
+- 4 rezistente de 330Ω (pentru fiecare led)
+- 1 rezistenta de 100Ω (pentru buzzer)
+- 15 fire
+
+Cum am facut:
+1.
+
+Poza:
+
+Link youtube:
+
+
