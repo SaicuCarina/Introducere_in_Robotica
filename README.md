@@ -44,10 +44,15 @@ Cum am facut:
    - dupa am continuat cu scrierea codului, fara sa conectez buzzer-ul
    - dupa ce am facut beculetele sa lumineze ca in cerinta, am conectat si buzzer-ul
 2. Scrierea codului:
+   - am facut 3 functii, 2 pentru led-ul care clipeste cand liftul e in miscare si sta aprins cand liftul nu se misca
+   - cealalta functie e cea de Start
    - am luat codul de la laborator ca exemplu pentru debounce-ul butonului
    - am scris codul de la debounce pentru fiecare dintre cele trei butoane
-   - am facut un switch cu 2 case-ri
+   - am facut un switch cu 2 case-uri
    - 0 - liftul sta, 1- liftul se misca
+   - in case-ul pentru liftul in miscare am veridicat toate variantele care sunt pentru cele 3 etaje (adica daca led-ul e aprins sau stins), daca era aprins verificam daca a fost apasat un buton de la un alt etaj
+   - daca apasam pe butonul de la etajul la care suntem buzzer-ul scoate un sunet
+   - daca nu, incepem miscarea spre etajul la care vrem sa ajungem
 
 Poza:
 ![WhatsApp Image 2023-10-31 at 21 46 32](https://github.com/SaicuCarina/Introducere_in_Robotica/assets/93483071/57510fc4-b7ea-4925-9309-6faccb8a04a5)
