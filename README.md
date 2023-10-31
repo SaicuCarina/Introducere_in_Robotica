@@ -50,7 +50,7 @@ Cum am facut:
    - am scris codul de la debounce pentru fiecare dintre cele trei butoane
    - am facut un switch cu 2 case-uri
    - 0 - liftul sta, 1- liftul se misca
-   - in case-ul pentru liftul in miscare am veridicat toate variantele care sunt pentru cele 3 etaje (adica daca led-ul e aprins sau stins), daca era aprins verificam daca a fost apasat un buton de la un alt etaj
+   - in case-ul pentru liftul in miscare am verificat toate variantele posibile pentru cele 3 etaje (adica daca led-ul e aprins sau stins), daca era aprins verificam daca a fost apasat un buton de la un alt etaj
    - daca apasam pe butonul de la etajul la care suntem buzzer-ul scoate un sunet
    - daca nu, incepem miscarea spre etajul la care vrem sa ajungem
 
