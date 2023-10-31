@@ -38,7 +38,16 @@ Ce am folosit:
 - 15 fire
 
 Cum am facut:
-1.
+1. Construirea circuitului:
+   - am conectat mai intai un singur led si un singur buton si am facut ledul sa se aprinda cand se apasa butonul
+   - am conectat si restul de leduri si restul de butoane si am facut sa se aprinda ca la liniuta anterioara
+   - dupa am continuat cu scrierea codului, fara sa conectez buzzer-ul
+   - dupa ce am facut beculetele sa lumineze ca in cerinta, am conectat si buzzer-ul
+2. Scrierea codului:
+   - am luat codul de la laborator ca exemplu pentru debounce-ul butonului
+   - am scris codul de la debounce pentru fiecare dintre cele trei butoane
+   - am facut un switch cu 2 case-ri
+   - 0 - liftul sta, 1- liftul se misca
 
 Poza:
 
