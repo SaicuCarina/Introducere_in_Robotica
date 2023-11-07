@@ -60,4 +60,24 @@ Poza:
 Link youtube:
 https://youtu.be/hsJig2XF8-s
 
+# Tema 4
 
+Cerinta:
+Trebuie sa folosim un joystick pentru a controla pozitia pentru fiecare segment in parte a unui display cu 7-segmente. Mutarea dintre segmente trebuie sa fie naturala, doar intre vecini.
+
+Ce am folosit:
+- 1 7-segment display
+- 1 joystick
+- 9 rezistente de 330Ω (pentru fiecare segment in parte si pentru ledul de reset)
+- 1 rezistenta de 100Ω (pentru buzzer)
+- 1 buzzer
+- 1 led albastru pentru reset
+- 21 de fire
+
+Cum am facut:
+1. Construirea circuitului:
+2. Scrierea codului:
+
+Poza:
+
+Link youtube:
