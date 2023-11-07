@@ -68,15 +68,21 @@ Trebuie sa folosim un joystick pentru a controla pozitia pentru fiecare segment 
 Ce am folosit:
 - 1 7-segment display
 - 1 joystick
-- 9 rezistente de 330Ω (pentru fiecare segment in parte si pentru ledul de reset)
+- 8 rezistente de 330Ω (pentru fiecare segment in parte)
 - 1 rezistenta de 100Ω (pentru buzzer)
 - 1 buzzer
-- 1 led albastru pentru reset
-- 21 de fire
+- 20 de fire
 
 Cum am facut:
 1. Construirea circuitului:
-2. Scrierea codului:
+   - initial am folosit circuitul construit in laborator pentru care am scris codul pentru tema
+   - dupa ce am facut codul, am adaugat un buzzer care scoate un sunet cand este apasat butonul de la joystick
+3. Scrierea codului:
+   - am avut 3 functii
+   - functia de blink care face ca segmentul pe care ne aflam sa pulseze
+   - functia reset care imi reseteaza toate variabilele pentru a reincepe de la segemntul punct
+   - functia directionFunct care verifica cum se misca joystick-ul pentru a modifica locul curent si a trece mai departe la urmatorul segment
+   - in loop am apelat functia blink, am facut debounce-ul pentru buton unde am integrat si resetul daca am apasat lung pe buton, iar in final am apelat functia directionFunct
 
 Poza:
 ![WhatsApp Image 2023-11-07 at 22 36 21](https://github.com/SaicuCarina/Introducere_in_Robotica/assets/93483071/c8762a6a-3bf1-444e-ac6b-fe6f70750396)
