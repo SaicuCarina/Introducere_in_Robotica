@@ -79,6 +79,7 @@ Cum am facut:
 2. Scrierea codului:
 
 Poza:
+![WhatsApp Image 2023-11-07 at 22 36 21](https://github.com/SaicuCarina/Introducere_in_Robotica/assets/93483071/c8762a6a-3bf1-444e-ac6b-fe6f70750396)
 
 Link youtube:
 https://youtu.be/wclejsGUcd4
