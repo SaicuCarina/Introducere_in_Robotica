@@ -140,7 +140,7 @@ void directionFunct(){
       for(int i = 0; i < segSize; i++){
         if(segments[i] == movementMatrix[currentLocation][direction]){
           currentLocation = i;
-          i=9;
+          i = segSize + 1; // i-ul devine segSize + 1 pentru a iesi din for
         } 
       }
     }
