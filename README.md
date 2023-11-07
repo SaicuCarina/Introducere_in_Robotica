@@ -81,3 +81,4 @@ Cum am facut:
 Poza:
 
 Link youtube:
+https://youtu.be/wclejsGUcd4
