@@ -89,3 +89,24 @@ Poza:
 
 Link youtube:
 https://youtu.be/wclejsGUcd4
+
+# Tema 5
+
+Cerinta: 
+Trebuie sa implementam un stopwatch timer cu un 4 digit 7-segment disply si 3 butoane, care ar trebui sa functioneze ca un cronometru de pe telefon. 
+Primul buton are varianta de start si stop.
+Al doilea buton reseteaza cronometrul.
+Al treilea buton retine numarul curent de pe display.
+
+Ce am folosit:
+- 1 4 digit 7-segment display
+- 3 butoane
+- 1 shift register: 74HC595
+- 8 rezistente de 330Ω
+- multe fire
+
+Cum am facut:
+
+Poza:
+
+Link youtube:
