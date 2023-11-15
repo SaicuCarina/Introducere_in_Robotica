@@ -106,6 +106,12 @@ Ce am folosit:
 - multe fire
 
 Cum am facut:
+- am inceput cu circuitul facut in laborator la care nu am adaugat nimic nou
+- m-am folosit de codul din laborator pe care l-am modificat initial pentru a numara bine secundele
+- initial am facut functia reset mai simpla, adica doar sa imi afiseze 000.0 (starea initiala)
+- am facut functia de stopwach si am facut functional doar butonul de start/stop
+- le-am legat cu butonul de reset ca sa functioneze si el
+- in final am implementat si butonul de save care imi salveaza lap-urile intr-un array, cand am facut asta a trebuit sa modific multe in codul de la functia reset, deoarece cu cel initial nu erau vizibile numerele din array
 
 Poza:
 
