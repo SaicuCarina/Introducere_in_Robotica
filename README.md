@@ -114,5 +114,6 @@ Cum am facut:
 - in final am implementat si butonul de save care imi salveaza lap-urile intr-un array, cand am facut asta a trebuit sa modific multe in codul de la functia reset, deoarece cu cel initial nu erau vizibile numerele din array
 
 Poza:
+![WhatsApp Image 2023-11-15 at 10 51 39](https://github.com/SaicuCarina/Introducere_in_Robotica/assets/93483071/feb88af0-264f-4729-b470-c36e873b24e6)
 
 Link youtube:
