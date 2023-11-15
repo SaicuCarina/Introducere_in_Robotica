@@ -117,3 +117,5 @@ Poza:
 ![WhatsApp Image 2023-11-15 at 10 51 39](https://github.com/SaicuCarina/Introducere_in_Robotica/assets/93483071/feb88af0-264f-4729-b470-c36e873b24e6)
 
 Link youtube:
+https://youtu.be/dZcXDfWr4NY
+(in video am exemplificat si ca butonul de reset nu merge cat timp cronometrul ruleaza)
