@@ -119,3 +119,50 @@ Poza:
 Link youtube:
 https://youtu.be/dZcXDfWr4NY
 (in video am exemplificat si ca butonul de reset nu merge cat timp cronometrul ruleaza)
+
+# Tema 6
+
+Cerinta: 
+Trebuie sa implementam un meniu cu mai multe functionalitati, care foloseste senzori de leduri.
+1. Sensor Settings
+   1.1 Sensors Sampling Interval
+   1.2 Ultrasonic Alert Threshold
+   1.3 LDR Alert Threshold
+   1.4 Back
+2. Reset Logger Data
+   2.1 Yes
+   2.2 No
+3. System Status
+   3.1 Current Sensor Readings
+   3.2 Current Sensor Settings
+   3.3 Display Logged Data
+   3.4 Back
+4. RGB LED Control
+   4.1 Manual Color Control
+   4.2 LED: Toggle Automatic ON/OFF
+   4.3 Back
+   
+Ce am folosit:
+- 1 Arduino Uno Board
+- 1 Ultrasonic Sensor (HC-SR04)
+- 1 LDR (Light-Dependent Resistor)
+- 1 led RGB
+- 1 buzzer
+- 1 rezistenta de 10MΩ
+- 1 resitenta de 100Ω
+- 3 rezistente de 330Ω
+- multe fire
+
+Cum am facut:
+- am inceput cu circuitul, dupa ce am pus toate cele necesare din pdf, am adaugat si un buzzer
+- m-am folosit de codul din laborator pentru meniu pe care l-am modificat si pentru submeniu
+- primul submeniu cu care am inceput a fost 4 pentru a controla ledurile
+- nu am reusit sa implementez 2 si 3
+- pentru submeniul 1 m-am folosit tot de codul din laborator pentru citirea senzorilor
+
+
+Poza:
+
+
+Link youtube:
+
