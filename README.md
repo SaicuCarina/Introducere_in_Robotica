@@ -162,7 +162,7 @@ Cum am facut:
 
 
 Poza:
-
+![WhatsApp Image 2023-11-07 at 22 36 21](https://github.com/SaicuCarina/Introducere_in_Robotica/assets/93483071/fdea7347-50ab-42e8-b653-7a5211fa7fb7)
 
 Link youtube:
 https://youtu.be/TtSVICl5axg
