@@ -160,10 +160,36 @@ Cum am facut:
 - nu am reusit sa implementez 2 si 3
 - pentru submeniul 1 m-am folosit tot de codul din laborator pentru citirea senzorilor
 
-
 Poza:
 ![WhatsApp Image 2023-11-22 at 00 30 49](https://github.com/SaicuCarina/Introducere_in_Robotica/assets/93483071/3d727d05-2bf9-4211-b5a6-8616b0d3efbc)
 
-
 Link youtube:
 https://youtu.be/TtSVICl5axg
+
+# Tema 7
+
+Cerinta: Trebuie sa dezvoltam un joc pe o matrice de leduri 8x8. Trebuie sa avem cel putin e tipuri de elemente: player, bombe, ziduri. Eu am implementat o varianta mai usoara a jocului Bomberman.
+
+Ce am folosit:
+- 1 Arduino Uno Board
+- joystick
+- 8x8 LED Matrix
+- MAX7219
+- 1 rezistenta de 100K
+- 1 rezistenta de 100Ω (pentru buzzer)
+- 1 buzzer
+- multe fire
+
+Cum am facut:
+- am inceput cu circuitul din laborator la care am adaugat un buzzer care face sunet cand bomba explodeaza
+- mai intai am scris codul pentru generarea mapei fara sa iau in calcul prima linie ca playerul sa nu se suprapuna cu un zid
+- pentru ca mapa sa fie pe 50%-75% din suprafata am facut o formula la care am folosit numarul de leduri de pe matrice
+- dupa ce am realizat mapa am plasat playerul in partea din stanga sus a matricei
+- mai intai am facut playerul sa se plimbe pe mapa fara ca ledul sa blikaie
+- dupa ce am facut asta am modificat codul pentru ca ledul sa blinkaie
+- am facut ca playerul sa nu treaca prin pereti si dupa am scris cosul pentru bombe
+- in final am adaugat si sunetul la buzzer care se aude cand bomba explodeaza
+
+Poza:
+
+Link youtube:
