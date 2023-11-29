@@ -191,5 +191,7 @@ Cum am facut:
 - in final am adaugat si sunetul la buzzer care se aude cand bomba explodeaza
 
 Poza:
+![WhatsApp Image 2023-11-29 at 11 28 20](https://github.com/SaicuCarina/Introducere_in_Robotica/assets/93483071/08d977bd-e32d-428f-8819-21f361f5eb70)
 
 Link youtube:
+https://youtu.be/vsAvKWwaPhQ
