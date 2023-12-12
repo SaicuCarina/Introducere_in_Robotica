@@ -211,3 +211,10 @@ Ce am folosit:
 - 1 LCD
 - 1 rezistenta de 330Ω (pentru LCD)
 - multe fire
+
+Cum am facut:
+
+Poza:
+
+Link youtube:
+
