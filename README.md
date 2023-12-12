@@ -195,3 +195,19 @@ Poza:
 
 Link youtube:
 https://youtu.be/vsAvKWwaPhQ
+
+# Tema 8
+
+Cerinta: Trebuie sa implementez un meniu pe LCD pentru jocul de la tema 7. Meniul trebuie sa contina: Start game, Settings, About.
+
+Ce am folosit:
+- 1 Arduino Uno Board
+- joystick
+- 8x8 LED Matrix
+- MAX7219
+- 1 rezistenta de 100K
+- 1 rezistenta de 100Ω (pentru buzzer)
+- 1 buzzer
+- 1 LCD
+- 1 rezistenta de 330Ω (pentru LCD)
+- multe fire
