@@ -213,6 +213,10 @@ Ce am folosit:
 - multe fire
 
 Cum am facut:
+- mai intai ai facut mesajul care apare pe LCD la inceput, care dureaza 3 secunde
+- am facut meniul principal si navigarea pentru el
+- dupa am trecut la submeniul pentru about ca mi se parea cel mai simplu de implementat
+- in final am facut si cel pentru setari fara sa modific intensitatea
 
 Poza:
 
