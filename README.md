@@ -216,9 +216,12 @@ Cum am facut:
 - mai intai ai facut mesajul care apare pe LCD la inceput, care dureaza 3 secunde
 - am facut meniul principal si navigarea pentru el
 - dupa am trecut la submeniul pentru about ca mi se parea cel mai simplu de implementat
-- in final am facut si cel pentru setari fara sa modific intensitatea
+- in final am facut si meniul pentru setari fara sa modific intensitatea la matrice sau la LCD
+- jocul nu l-am conectat pentru ca avea mai multe chestii de schimbat la el si nu am apucat
 
 Poza:
+![WhatsApp Image 2023-12-13 at 12 49 57](https://github.com/SaicuCarina/Introducere_in_Robotica/assets/93483071/1007cee5-6833-4795-953c-d5044b8455ea)
 
 Link youtube:
+https://youtube.com/shorts/Waj1f37tn_A?feature=share
 
